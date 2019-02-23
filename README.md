@@ -1,4 +1,4 @@
-![Alt Text](http://assets/Liri_bot.JPG)
+![Alt Text](http://assets\Liri_bot.JPG)
 ![Alt Text1](https://media.giphy.com/media/pOr8XFMqpXf0B1OZGv/giphy.gif)
 
 Full
