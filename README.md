@@ -1,4 +1,4 @@
-![Alt Text](assets\Liri_bot.JPG)
+![Alt Text](http:assets\Liri_bot.JPG)
 ![Alt Text](https://media.giphy.com/media/pOr8XFMqpXf0B1OZGv/giphy.gif)
 
 Full
@@ -16,26 +16,26 @@ All of the following information about your liri.js < request > terminal window.
 
 
 #### Spotify
-`node liri.js spotify-this "Song Name"`
-Song:
-Artist(s): 
-Album:
-Preview Link:
+`node liri.js spotify-this "Song Name"`<br/>
+Song:<br/>
+Artist(s): <br/>
+Album:<br/>
+Preview Link:<br/>
 
 #### Movies
-`node liri.js movie-this "Movie Title"`
-Title:
-Year:
-IMDB:
-Rottem tomatoes Rating:
+`node liri.js movie-this "Movie Title"`<br/>
+Title:<br/>
+Year:<br/>
+IMDB:<br/>
+Rottem tomatoes Rating:<br/>
 
 #### Band in Town
-`node liri.js concert-this`
-Name:
-City:
-Country:
-Date:
-Lineup:
+`node liri.js concert-this`<br/>
+Name:<br/>
+City:<br/>
+Country:<br/>
+Date:<br/>
+Lineup:<br/>
 
 #### Do What It Says
 `node liri.js do-what-it-says`
